@@ -18,10 +18,6 @@
     :target: http://www.astropy.org
     :alt: Powered by Astropy Badge
     
-    
-
-
-***Bridging the gap between observation and theory***
 
 
 
