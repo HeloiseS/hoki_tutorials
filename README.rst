@@ -21,7 +21,7 @@
     
 
 
-* **Bridging the gap between observation and theory** *
+***Bridging the gap between observation and theory***
 
 
 
