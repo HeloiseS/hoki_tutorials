@@ -22,7 +22,7 @@
 
 
 *Bridging the gap between observation and theory*
---------------------------------------------------
+
 
 TUTORIALS TUTORIALS TUTORIALS!
 -------------------------------
