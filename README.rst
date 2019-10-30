@@ -1,4 +1,4 @@
-.. image:: ./images/hoki.png
+.. image:: ./images/hoki_tuto_text.png
     :height: 40px
     
  
@@ -20,13 +20,9 @@
 
 
 
-TUTORIALS TUTORIALS TUTORIALS!
--------------------------------
-
 In this repository you will find all the tutorials to learn to use ``hoki``.
-If you encounter an problem please write us an issue on the source code's GitHub repo :)
+If you encounter an problem please write us an issue on the source code's `GitHub repo <https://github.com/HeloiseS/hoki>`__ :)
 
-https://github.com/HeloiseS/hoki
 
 Installing hoki
 ^^^^^^^^^^^^^^^^
@@ -40,7 +36,7 @@ You can pip install hoki, note it has note yet been tested for python3.7 and up,
 Read the docs!
 ^^^^^^^^^^^^^^^
 
-**Here is some documentation: https://heloises.github.io/hoki/intro.html**
+`Click Here! Click Here! Click Here! <https://heloises.github.io/hoki/intro.html>`_
 
 Citation
 ^^^^^^^^^
