@@ -3,9 +3,7 @@
     
  
 .. image:: https://img.shields.io/pypi/v/hoki?style=flat-square   :alt: PyPI
-
 .. image:: https://img.shields.io/github/repo-size/heloises/hoki_tutorials?style=for-the-badge   :alt: GitHub repo size
-
 .. image:: https://zenodo.org/badge/197853216.svg
    :target: https://zenodo.org/badge/latestdoi/197853216
 
