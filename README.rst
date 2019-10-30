@@ -4,21 +4,14 @@
  
 .. image:: https://img.shields.io/pypi/v/hoki?style=flat-square   :alt: PyPI
 
+.. image:: https://img.shields.io/github/repo-size/heloises/hoki_tutorials?style=for-the-badge   :alt: GitHub repo size
 
 .. image:: https://zenodo.org/badge/197853216.svg
    :target: https://zenodo.org/badge/latestdoi/197853216
 
-.. image:: https://travis-ci.org/HeloiseS/hoki.svg?branch=master
-    :target: https://travis-ci.org/HeloiseS/hoki
-    
-.. image:: https://codecov.io/gh/HeloiseS/hoki/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/HeloiseS/hoki
-    
-.. image:: http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
-    :target: http://www.astropy.org
-    :alt: Powered by Astropy Badge
 
 
+-----
 
 In this repository you will find all the tutorials to learn to use ``hoki``.
 If you encounter an problem please write us an issue on the source code's `GitHub repo <https://github.com/HeloiseS/hoki>`__ :)
