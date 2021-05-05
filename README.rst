@@ -13,7 +13,7 @@ If you encounter an problem please write us an issue on the source code's `GitHu
 Installing hoki
 ^^^^^^^^^^^^^^^^
 
-You can pip install hoki, note it has note yet been tested for python 3.4 and down. 
+You can pip install hoki, note it has not been tested for python 3.4 
 
 .. code-block:: none
 
